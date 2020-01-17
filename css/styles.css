@@ -16,7 +16,7 @@ header .container{
 }
 .card-panel{
 	margin: 0 2rem;
-	width: 70%;
+	width: 100%;
 
 }
 
@@ -31,4 +31,8 @@ header .container{
 
 h6{
 	font-size: smaller;
+}
+
+.lomejor{
+	margin-bottom: 1rem;
 }
