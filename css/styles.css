@@ -15,7 +15,7 @@ header .container{
 	margin-top: 2rem;
 }
 .card-panel{
-	margin: 0 2rem;
+	margin: 1rem 2rem;
 	width: 100%;
 
 }
@@ -39,4 +39,10 @@ h6{
 
 #captcha{
 	width: 80%;
+}
+
+.azul:hover{
+	color: white !important;
+	background-color: #009688 !important;
+	transform: scale(1.1);
 }
